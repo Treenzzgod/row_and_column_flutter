@@ -104,6 +104,10 @@ widget ini digunakan untuk membentuk widget vertical
 
 #### MainAxisSize
 
+- MainAxisSize.min, akan membuat widget row memiliki lebar minimal.
+
+- MainAxisSize.max, akan membuat widget row memiliki lebar maximal sesuai dengan widget parentnya.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
